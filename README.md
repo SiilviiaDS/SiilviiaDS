@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SiilviiaDS
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on my projects for learning other posibilities
 
 
